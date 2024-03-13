@@ -9,7 +9,7 @@ if number < 0:
 print("Last digit of", number, "is", last_digit, end=" ")
 
 if int(last_digit) == 0:
-    print("is 0")
+    print("and is 0")
 elif int(last_digit) > 5:
     print("and is greater than 5")
 else:
