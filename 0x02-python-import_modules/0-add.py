@@ -1,4 +1,4 @@
 import add_0
 
-result = add_0.add(a, b)
+result = add_0.add(1, 2)
 print (result)
