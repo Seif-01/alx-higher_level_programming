@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 import add_0
 
-sum = add_0.add(1, 2)
+a = 1
+b = 2
+
+sum = add_0.add(a, b)
 print (sum)
